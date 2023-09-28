@@ -10,6 +10,7 @@
  - This process is then continued to find the second largest and place it and so on until the data is sorted.
 ## For example:
 Input: arr[] = {6, 3, 0, 5}
+
 ### First Pass: 
 
 The largest element is placed in its correct position, i.e., the end of the array.
